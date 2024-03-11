@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins');
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100vw;
+    height: 100vh;
+    background-image:url('./img/header-bg.png');
+    background-position:bottom;
+    background-size: cover;
+}
